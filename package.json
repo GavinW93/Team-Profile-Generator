@@ -21,9 +21,14 @@
   },
   "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.19.0",
+    "create-html": "^4.1.0",
+    "fs": "0.0.1-security",
+    "html-creator": "^0.4.3",
+    "http": "0.0.0",
+    "inquirer": "^6.5.2"
   },
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   }
 }
